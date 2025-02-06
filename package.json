@@ -1,0 +1,23 @@
+{
+  "name": "nodedb",
+  "version": "1.0.0",
+  "description": "Simple todo list with NodeJs",
+  "homepage": "https://github.com/cristiannobili/todo#readme",
+  "bugs": {
+    "url": "https://github.com/cristiannobili/todo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristiannobili/todo.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
