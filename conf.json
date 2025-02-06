@@ -1,0 +1,10 @@
+{
+    "host": "XX",
+    "user": "XX",
+    "password": "XX",
+    "database": "XX",
+    "port": "ZZZZ",
+    "ssl": {
+        "ca": "fs.readFileSync(__dirname + '/ca.pem')"
+    }
+}
